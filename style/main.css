@@ -1,0 +1,285 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.header {
+    background: #C0272D;
+ 
+}
+a{
+    text-decoration: none;
+    text-decoration-line: none;
+}
+a:visited, a:link{
+    color: black;
+}
+ul, li{
+    list-style: none;
+}
+.unheader {
+    display: flex;
+}
+.verdanta {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.facebook{
+    width: 25px;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.nomer {
+     font-family: Bebas Neue;
+     font-size: 14px;
+     line-height: 14px;
+     letter-spacing: 0.05em;
+     margin-top: 15px;
+     margin-left: 20px;
+
+     color: #FFFFFF;
+}
+.nav {
+    width: 100%;
+    padding: 0%;
+    display: flex;
+    justify-content: space-around;
+    background: #F6F6F6;
+    margin-top: 14px;
+    border-radius: 21.5px;
+    height: 30px;
+    box-shadow: 1px 1px 1px 0;
+    box-sizing: content-box;
+   
+}
+.nav li {
+    width: 100%;
+    padding: 0%;
+    box-sizing: content-box;
+    font-size: 15px;
+}
+.nav a {
+    display: block;
+    text-align: center;
+    box-sizing: content-box;
+    /* width: 16.66%; */
+}
+
+.nav a:hover{
+    background-color: #C0272D;
+    /* width: 16.66%; */
+    height: 100%;
+    border-radius: 21.5px;
+    /* padding: 0%; */
+}
+.verdan {
+    margin-top: 75px;
+    margin-left: 55px;
+}
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+.verdan1 {
+    width: 41px;
+    height: 41px;
+    margin-left: 53px;
+    margin-top: 75px;
+}
+.tel {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 18px;
+     line-height: 19px;
+     margin-top: 85px;
+     margin-left: 30px;
+
+     color: #333333;
+
+}
+.week {
+    margin-left: -125px;
+    margin-top: 100px;
+    font-size: 13px;
+    color: #333333;
+}
+.obwi {
+    background: #F6F6F6;
+    margin-top: 35px;
+}
+.lorem {
+     font-family: Bebas Neue Cyrillic;
+     font-size: 72px;
+     line-height: 72px;
+     margin-left: 60px;
+     margin-top: 30px;
+
+     color: rgba(51, 51, 51, 0.77);
+}
+.lorem1 {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 16px;
+     margin-left: 66px;
+     color: #333333;
+}
+.robot {
+    width: 43%;
+    height: 45px;
+    border-radius: 15px !important;
+    background-color: #C0272D !important;
+    margin-top: 15px;
+    margin-left: 65px;
+}
+.med {
+    background: url(../img1/foto1.png);
+    position: relative;
+    z-index: 0;
+   
+}
+.ipsum {
+     font-family: Bebas Neue Cyrillic;
+     position: absolute;
+     font-size: 24px;
+     line-height: 24px;
+     z-index: 1;
+     margin-top: -8%;
+     margin-left: 35px;
+
+      color: #FFFFFF;
+}
+.ipsum1 {
+     font-family: Roboto;
+     position: absolute;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 14px;
+     line-height: 16px;
+     margin-top: -5%;
+     margin-left: 36px;
+     z-index: 1;
+
+     color: #EBEBEB;
+}
+.images {
+    margin-top: 70px;
+    margin-left: 150px;
+    width: 70%;
+    cursor: pointer;
+}
+.rentgen {
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    margin-left: 100px;
+    width: 135%;
+}
+.unfooter {
+    background: url(../img1/1\ \(3\).png);
+}
+.dofooter {
+    margin-top: 45px;
+    margin-left: 65px;
+    width: 80%;
+}
+.bremen {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.akadem {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 12px;
+     line-height: 12px;
+     text-align: center;
+     margin-left: -18px;
+     margin-top: 6px;
+
+     color: #616060;
+}
+.nashi {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 18px;
+     line-height: 19px;
+     color: #616060;
+     margin-left: -22px;
+     margin-top: 5px;
+}
+footer {
+    background: #616060;
+    box-shadow: 0px -2px 7px rgba(0, 0, 0, 0.25);
+}
+.nav1 {
+    width: 100%;
+    padding: 0%;
+    display: flex;
+    justify-content: space-around;
+    background: #616060;
+    margin-top: 41px;
+    margin-left: 20px;
+    border-radius: 21.5px;
+    height: 30px;
+    box-shadow: 1px 1px 1px 0;
+   
+}
+.nav1 li {
+    width: 100%;
+    padding: 0%;
+}
+.nav1 a {
+    text-align: center;
+}
+
+.nav1 a:hover{
+    background-color: #C0272D;
+    width: 130px;
+    border-radius: 21.5px;
+    padding: 0%;
+}
+.glavna1 {
+    width: 100%;
+}
+.insta {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 67%;
+    margin-top: 35px;
+}
+.telefon {
+    display: flex;
+    justify-content: space-around;
+    width: 215%;
+    margin-top: 14.5px;
+}
+.nummer {
+     font-family: Bebas Neue;
+     font-size: 18px;
+     line-height: 18px;
+     letter-spacing: 0.05em;
+
+     color: #FFFFFF;
+}
+.face {
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+    margin-left: 50px;
+    margin-bottom: 35px;
+}
+
+
+
